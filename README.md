@@ -21,3 +21,9 @@ material and lighting comes from the text prompt downstream.
 
 No people, likenesses, or identifying content: every figure is untextured
 primitive geometry.
+
+## Central Park conversation
+
+`park_talk_20s.mp4` — 480 frames, 20.000s, 960x540, 24fps. One continuous
+push-in from 34m/28mm to 4.3m/52mm ending on a close two-shot, with six
+pedestrians crossing behind and in front of the pair.
